@@ -1,5 +1,0 @@
-{
-    "access_token": "BQAHLiJ6BXiusXxiHeyDkjmPbWj4__7y-4oK7VsCgo4FIMNKqIOa6V6TbBTAJr_DvjmlkhVwc2ROMhy34yxlxu_Zp8RrpwgtvVLA_VZtFD2B95VB9iA",
-    "token_type": "Bearer",
-    "expires_in": 3600
-}
